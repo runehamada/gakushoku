@@ -1,4 +1,7 @@
-html,body {
+.all{
+  min-height:100%;
+}
+body {
   font-family: "Open Sans", sans-serif;
   line-height: 1.25;
   height: 100%;
