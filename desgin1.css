@@ -1,7 +1,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   line-height: 1.25;
-  height: 100%;
+  min-height: 100%;
 }
 
 
@@ -24,12 +24,12 @@ table  tr td{
 .price{
   text-align: right;
   color: #000;
-  font-size:30px;
+  font-size:16px;
 }
 .text{
   text-align: center;
   color: #000;
-  font-size:30px;
+  font-size:16px;
 }
 a {
   text-decoration: none;
@@ -45,30 +45,18 @@ a {
 }
 #aaa{
   background:#ff8c00;
-  font-size:50px;
+  font-size:18px;
   color: #ffffff;
   font-family:
 }
 #bbb{
   background:#FF9900;
-  font-size:30px;
+  font-size:16px;
   text-align: center;
   color: #ffffff;
   border-bottom: 2px solid #ffffff;
   font-weight:  bold;
 }
-/*#ccc{
-  background:#0000ff;
-  font-size:50px;
-  color: #ffffff;
-}
-#ddd{
-  background:#1e90ff;
-  font-size:30px;
-  text-align: center;
-  color: #ffffff;
-  font-weight:  bold;
-}*/
 .mid table th, .mid td{
 	border: 3px solid #eee;
 }
