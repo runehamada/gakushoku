@@ -15,7 +15,7 @@ table {
   font-family:"serif";
 }
 table tr {
-  background-color: #ffa500;
+  background-color: #feefb6;
 }
 table  tr td{
   padding: .35em 1em;
@@ -24,12 +24,12 @@ table  tr td{
 .price{
   text-align: right;
   color: #000;
-  font-size:16px;
+  font-size:14px;
 }
 .text{
   text-align: center;
   color: #000;
-  font-size:16px;
+  font-size:14px;
 }
 a {
   text-decoration: none;
@@ -44,16 +44,16 @@ a {
   min-height: 100%;
 }
 #aaa{
-  background:#ff8c00;
-  font-size:18px;
-  color: #ffffff;
+  background:#00ffff;
+  font-size:16px;
+  color: #16160e;
   font-family:
 }
 #bbb{
-  background:#FF9900;
-  font-size:16px;
+  background:#ffd900;
+  font-size:14px;
   text-align: center;
-  color: #ffffff;
+  color: #16160e;
   border-bottom: 2px solid #ffffff;
   font-weight:  bold;
 }
@@ -61,10 +61,10 @@ a {
 	border: 3px solid #eee;
 }
 .mid table tr:nth-child(2n){
-  background: #FF9933;
+  background: #feefb6;
 }
 .mid table tr:nth-child(2n+1){
-  background: #FF9966;
+  background: #84ad54;
 }
 .mid tr:hover {
 	background: #ff0;
