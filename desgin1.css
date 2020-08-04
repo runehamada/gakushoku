@@ -2,6 +2,7 @@ body {
   font-family: "Open Sans", sans-serif;
   line-height: 1.25;
   min-height: 100%;
+　background-color:#f0e68c;
 }
 
 
@@ -19,7 +20,7 @@ table tr {
 }
 table  tr td{
   padding: .35em 1em;
-  border: 2px solid #ffffff;
+  border: 2px solid #f0e68c;;
 }
 .price{
   text-align: right;
@@ -54,11 +55,11 @@ a {
   font-size:14px;
   text-align: center;
   color: #16160e;
-  border-bottom: 2px solid #ffffff;
+  border-bottom: 2px solid #f0e68c;;
   font-weight:  bold;
 }
 .mid table th, .mid td{
-	border: 3px solid #eee;
+	border: 3px solid #f0e68c;;
 }
 .mid table tr:nth-child(2n){
   background: #feefb6;
