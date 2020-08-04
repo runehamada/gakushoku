@@ -26,11 +26,19 @@ table  tr td{
   text-align: center;
   color: #000;
   font-size:14px;
+  width:15%;
 }
 .text{
   text-align: center;
   color: #000;
   font-size:14px;
+  width:60%;
+}
+.txt{
+ text-align: center;
+ color: #000;
+ font-size:14px;
+ width:25%;
 }
 a {
   text-decoration: none;
