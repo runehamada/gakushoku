@@ -29,7 +29,7 @@ table  tr td{
   background: #feefb6;
 }
 .full-width {
-  max-width: 380px;
+  max-width: 100%;
   position: relative;
 }
 .price{
