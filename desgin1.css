@@ -2,7 +2,7 @@ body {
   font-family: "Open Sans", sans-serif;
   line-height: 1.25;
   min-height: 100%;
-　background:#f0e68c;
+  background:#f0e68c;
 }
 
 
@@ -55,11 +55,11 @@ a {
   font-size:14px;
   text-align: center;
   color: #16160e;
-  border-bottom: 2px solid #f0e68c;;
+  border-bottom: 2px solid #f0e68c;
   font-weight:  bold;
 }
 .mid table th, .mid td{
-	border: 3px solid #f0e68c;;
+	border: 3px solid #f0e68c;
 }
 .mid table tr:nth-child(2n){
   background: #feefb6;
