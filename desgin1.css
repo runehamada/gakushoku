@@ -20,7 +20,7 @@ table tr {
 }
 table  tr td{
   padding: .35em 1em;
-  border: 1px solid #f0e68c;;
+  border: 1px solid #ff8c00;
 }
 .price{
   text-align: center;
@@ -55,11 +55,11 @@ a {
   font-size:14px;
   text-align: center;
   color: #16160e;
-  border-bottom: 1px solid #f0e68c;
+  border-bottom: 1px solid #ff8c00;
   font-weight:  bold;
 }
 .mid table th, .mid td{
-	border: 1px solid #f0e68c;
+	border: 1px solid #ff8c00;
 }
 .mid table tr:nth-child(2n){
   background: #feefb6;
